@@ -15,6 +15,7 @@
     ],
     "related": [
         "scipy-introduction",
-        "numpy-arrays"
+        "numpy-arrays",
+        "numpy-importing-numpy"
     ]
 }
